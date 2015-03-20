@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"StyleToken",
+		"Sublime Bookmarks",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Theme - Cobalt2"
+	]
+}

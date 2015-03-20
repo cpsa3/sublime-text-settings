@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+shift+a"], "command": "alignment" },
+	{ "keys": ["alt+b"], 
+        "caption": "SublimeBookmarks: Toggle Current Line",
+        "command": "sublime_bookmark",
+        "args" : { "type" : "toggle_line" }
+    }
+]
