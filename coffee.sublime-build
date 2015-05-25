@@ -1,0 +1,1 @@
+{ "cmd": ["coffee.cmd","-c","$file", "&&", "coffee.cmd","$file"], "selector": "source.coffee" }

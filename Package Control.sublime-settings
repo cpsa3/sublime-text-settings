@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"BracketHighlighter",
 		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
