@@ -1,20 +1,26 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"Alignment",
+		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
 		"Package Control",
+		"Sass",
 		"StyleToken",
 		"Sublime Bookmarks",
 		"SublimeCodeIntel",
 		"Terminal",
-		"Theme - Cobalt2"
+		"Theme - Cobalt2",
+		"Theme - Spacegray"
 	]
 }

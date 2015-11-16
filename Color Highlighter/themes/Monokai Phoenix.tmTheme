@@ -10,35 +10,33 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_CCCCCCFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#CCCCCCFF</string>
-<key>caret</key>
-<string>#323232FF</string>
-<key>foreground</key>
-<string>#323232FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
 <string>mcol_FF0000FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
 <string>#FF0000FF</string>
-<key>caret</key>
-<string>#4C0000FF</string>
 <key>foreground</key>
+<string>#4C0000FF</string>
+<key>caret</key>
 <string>#4C0000FF</string>
 </dict>
 </dict>
 
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_FF0000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#111112FF</string>
+<key>foreground</key>
+<string>#FF0000FF</string>
+<key>caret</key>
+<string>#4C0000FF</string>
+</dict>
+</dict>
 
 		<dict>
 			<key>settings</key>
@@ -195,7 +193,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8a5c8dff</string>
+				<string>#8A5C8DFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,9 +215,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#562d56bf</string>
+				<string>#562D56BF</string>
 				<key>foreground</key>
-				<string>#fd5ff1ff</string>
+				<string>#FD5FF1FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -263,7 +261,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#aa00ff</string>
+				<string>#AA00FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +272,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff5522</string>
+				<string>#FF5522</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +283,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1224fe</string>
+				<string>#1224FE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -319,10 +317,6 @@
 			<string>entity.name.accessor.js</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#001122</string>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#A6E22E</string>
 			</dict>
@@ -334,10 +328,6 @@
 			<string>entity.name.method.js</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#110022</string>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#A6E22E</string>
 			</dict>
@@ -349,10 +339,8 @@
 			<string>meta.method.js</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#fff</string>
+				<string>#FFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -373,8 +361,6 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#A6E22E</string>
 			</dict>
@@ -402,7 +388,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#00ff99</string>
+				<string>#00FF99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -527,7 +513,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#420e09ff</string>
+				<string>#420E09FF</string>
 				<key>foreground</key>
 				<string>#F92672</string>
 			</dict>
@@ -540,7 +526,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#4a410dff</string>
+				<string>#4A410DFF</string>
 				<key>foreground</key>
 				<string>#E6DB74</string>
 			</dict>
@@ -553,9 +539,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#253b22ff</string>
+				<string>#253B22FF</string>
 				<key>foreground</key>
-				<string>#f8f8f8ff</string>
+				<string>#F8F8F8FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -566,9 +552,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#eeeeee29</string>
+				<string>#EEEEEE29</string>
 				<key>foreground</key>
-				<string>#f8f8f8ff</string>
+				<string>#F8F8F8FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -581,7 +567,7 @@
 				<key>background</key>
 				<string>#751012</string>
 				<key>foreground</key>
-				<string>#f8f8f8</string>
+				<string>#F8F8F8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -597,6 +583,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>5815b34d-fb7d-4593-bf0c-4f41f8b1f0a9</string>
+	<string>c29d9188-ad09-45ff-a41c-5fa3816b15ba</string>
 </dict>
 </plist>

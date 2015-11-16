@@ -10,35 +10,33 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_CCCCCCFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#CCCCCCFF</string>
-<key>caret</key>
-<string>#323232FF</string>
-<key>foreground</key>
-<string>#323232FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
 <string>mcol_FF0000FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
 <string>#FF0000FF</string>
-<key>caret</key>
-<string>#4C0000FF</string>
 <key>foreground</key>
+<string>#4C0000FF</string>
+<key>caret</key>
 <string>#4C0000FF</string>
 </dict>
 </dict>
 
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_FF0000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000001FF</string>
+<key>foreground</key>
+<string>#FF0000FF</string>
+<key>caret</key>
+<string>#4C0000FF</string>
+</dict>
+</dict>
 
 		<dict>
 			<key>settings</key>
@@ -1898,6 +1896,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>b238c753-1549-3f12-a519-0faa5dcd4f65</string>
+	<string>35279c3b-adad-473e-b960-fee631f4d9a5</string>
 </dict>
 </plist>
